@@ -76,3 +76,9 @@ footer {
   background-color: transparent;
   padding: 0;
 }
+
+.back-links a:hover {
+  text-decoration: underline; /* Agrega el subrayado */
+  background: #1abc9c; /* Mantiene el cambio de fondo al pasar el ratón */
+  color: #fff; /* Mantiene el cambio de color al pasar el ratón */
+}
