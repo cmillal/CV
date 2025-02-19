@@ -1,0 +1,5 @@
+.container {
+    max-width: 960px; /* O el ancho máximo que desees */
+    margin: 20px auto; /* Agrega márgenes arriba/abajo y centra el contenedor */
+    padding: 0 20px; /* Agrega relleno a los lados */
+  }
